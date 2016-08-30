@@ -9,6 +9,7 @@ Iver Jordal
 Sigve Sebastian Farstad
 Péter Gombos
 Aleksander Vognild Burkow
+Sivert Nikolai Solum
 
 ==========================================================
 Se endringen din med (git diff).
